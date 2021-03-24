@@ -1,6 +1,3 @@
-Eric NYC Weiss
-
-- [Twitter](https://twitter.com/kinnybot)
-- [Website](https://kinnybot.com)
+[Eric NYC Weiss](https://kinnybot.com)
 
 ![](https://profile-counter.glitch.me/kinnybot/count.svg)
